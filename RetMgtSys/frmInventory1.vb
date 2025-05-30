@@ -156,6 +156,10 @@ Public Class frmInventory1
                         loadMaster()
                     End If
                 Case 2 'save
+
+                    .Master(86) = txtField86.Text
+                    .Master(87) = txtField87.Text
+
                     If Not isEntryOk() Then Exit Sub
                     If .SaveRecord Then
                         MsgBox("Record Saved Successfuly.", MsgBoxStyle.Information, "Success")
@@ -261,8 +265,9 @@ endProc:
             txtField85.Text = .Master(85)
             txtField18.Text = IFNull(.Master(18))
 
-            txtField86.Text = Format(.Master(86), "#,##0.00")
-            txtField87.Text = Format(.Master(87), "#,##0.00")
+            txtField86.Text = Format(.Master(8), "#,##0.00")
+            txtField87.Text = Format(.Master(9), "#,##0.00")
+
             txtField17.Text = Format(IFNull(.Master(17), p_oAppDriver.getSysDate), "MMM dd, yyyy")
             txtField19.Text = IFNull(.Master(19))
             txtField20.Text = IFNull(.Master(20))
@@ -271,6 +276,8 @@ endProc:
             txtField23.Text = IFNull(.Master(23))
             txtField24.Text = IFNull(.Master(24))
 
+            txtField86.Text = Format(.Master(8), "#,##0.00")
+            txtField87.Text = Format(.Master(9), "#,##0.00")
 
             CheckBox2.Checked = IIf(.Master("cWthPromo") = "1", True, False)
             CheckBox1.Checked = IIf(.Master("cComboMlx") = "1", True, False)
@@ -364,6 +371,9 @@ endProc:
                 loTxt.Text = Format(Value, "#,##0.00")
             Case 80 To 85
                 loTxt.Text = Value
+            Case 88
+
+                CheckBox4.Checked = IIf(Value = "1", True, False)
             Case Else
                 loTxt.Text = Value
         End Select
