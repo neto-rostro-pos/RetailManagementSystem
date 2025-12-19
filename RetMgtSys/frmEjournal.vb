@@ -136,7 +136,7 @@ nextEntry:
                         pdf.Info.Title = "Text File to PDF"
                         Dim pdfPage As PdfPage
                         Dim graph As XGraphics
-                        Dim font As XFont = New XFont("courier new", 9, XFontStyle.Regular)
+                        Dim font As XFont = New XFont("courier new", 9, Regular)
 
                         yPoint = 0
 nextline:

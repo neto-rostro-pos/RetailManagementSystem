@@ -146,7 +146,7 @@ Partial Class frmInventory1
         Me.txtSeeks01.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtSeeks01.Location = New System.Drawing.Point(68, 7)
         Me.txtSeeks01.Name = "txtSeeks01"
-        Me.txtSeeks01.Size = New System.Drawing.Size(146, 20)
+        Me.txtSeeks01.Size = New System.Drawing.Size(172, 20)
         Me.txtSeeks01.TabIndex = 1
         '
         'Label30
@@ -286,6 +286,7 @@ Partial Class frmInventory1
         '
         Me.txtField03.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtField03.Location = New System.Drawing.Point(68, 60)
+        Me.txtField03.MaxLength = 14
         Me.txtField03.Name = "txtField03"
         Me.txtField03.Size = New System.Drawing.Size(272, 20)
         Me.txtField03.TabIndex = 9
@@ -322,7 +323,7 @@ Partial Class frmInventory1
         Me.txtField01.Location = New System.Drawing.Point(68, 7)
         Me.txtField01.Name = "txtField01"
         Me.txtField01.ReadOnly = True
-        Me.txtField01.Size = New System.Drawing.Size(147, 20)
+        Me.txtField01.Size = New System.Drawing.Size(172, 20)
         Me.txtField01.TabIndex = 5
         Me.txtField01.TabStop = False
         '

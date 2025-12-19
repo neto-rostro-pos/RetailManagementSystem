@@ -71,6 +71,7 @@ Partial Class mdiMain
         Me.BackupDatabaseToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.RestoreDatabseToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ProductUploadToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.PrintToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.StatusStrip1 = New System.Windows.Forms.StatusStrip()
         Me.tslDate = New System.Windows.Forms.ToolStripStatusLabel()
         Me.tslUser = New System.Windows.Forms.ToolStripStatusLabel()
@@ -265,7 +266,7 @@ Partial Class mdiMain
         '
         Me.BackendToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.AccumulatedGrandTotalToolStripMenuItem, Me.EventLogsToolStripMenuItem, Me.BIRSalesSummaryToolStripMenuItem, Me.CancelledReceiptToolStripMenuItem, Me.ItemListToolStripMenuItem, Me.SalesReportToolStripMenuItem, Me.VoidItemsToolStripMenuItem, Me.ComplementaryToolStripMenuItem, Me.ChargeToolStripMenuItem, Me.EJournalToolStripMenuItem, Me.DailySalesSummaryToolStripMenuItem, Me.SalesInventorySummaryToolStripMenuItem})
         Me.BackendToolStripMenuItem.Name = "BackendToolStripMenuItem"
-        Me.BackendToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.BackendToolStripMenuItem.Size = New System.Drawing.Size(129, 22)
         Me.BackendToolStripMenuItem.Text = "Standard"
         Me.BackendToolStripMenuItem.Visible = False
         '
@@ -344,25 +345,25 @@ Partial Class mdiMain
         'StandardToolStripMenuItem
         '
         Me.StandardToolStripMenuItem.Name = "StandardToolStripMenuItem"
-        Me.StandardToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.StandardToolStripMenuItem.Size = New System.Drawing.Size(129, 22)
         Me.StandardToolStripMenuItem.Text = "Standard"
         '
         'YReadingToolStripMenuItem
         '
         Me.YReadingToolStripMenuItem.Name = "YReadingToolStripMenuItem"
-        Me.YReadingToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.YReadingToolStripMenuItem.Size = New System.Drawing.Size(129, 22)
         Me.YReadingToolStripMenuItem.Text = "Y-Reading"
         Me.YReadingToolStripMenuItem.Visible = False
         '
         'TerminalZReadingToolStripMenuItem
         '
         Me.TerminalZReadingToolStripMenuItem.Name = "TerminalZReadingToolStripMenuItem"
-        Me.TerminalZReadingToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.TerminalZReadingToolStripMenuItem.Size = New System.Drawing.Size(129, 22)
         Me.TerminalZReadingToolStripMenuItem.Text = "Z-Reading"
         '
         'UtilitiesToolStripMenuItem
         '
-        Me.UtilitiesToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.BackupDatabaseToolStripMenuItem1, Me.RestoreDatabseToolStripMenuItem, Me.ProductUploadToolStripMenuItem})
+        Me.UtilitiesToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.BackupDatabaseToolStripMenuItem1, Me.RestoreDatabseToolStripMenuItem, Me.ProductUploadToolStripMenuItem, Me.PrintToolStripMenuItem})
         Me.UtilitiesToolStripMenuItem.Name = "UtilitiesToolStripMenuItem"
         Me.UtilitiesToolStripMenuItem.Size = New System.Drawing.Size(58, 20)
         Me.UtilitiesToolStripMenuItem.Text = "Utilities"
@@ -384,6 +385,13 @@ Partial Class mdiMain
         Me.ProductUploadToolStripMenuItem.Name = "ProductUploadToolStripMenuItem"
         Me.ProductUploadToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.ProductUploadToolStripMenuItem.Text = "Product Upload"
+        '
+        'PrintToolStripMenuItem
+        '
+        Me.PrintToolStripMenuItem.Name = "PrintToolStripMenuItem"
+        Me.PrintToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.PrintToolStripMenuItem.Text = "Print"
+        Me.PrintToolStripMenuItem.Visible = False
         '
         'StatusStrip1
         '
@@ -490,4 +498,5 @@ Partial Class mdiMain
     Friend WithEvents StateOfAccountToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents DeliveryServiceToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents ProductUploadToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents PrintToolStripMenuItem As ToolStripMenuItem
 End Class

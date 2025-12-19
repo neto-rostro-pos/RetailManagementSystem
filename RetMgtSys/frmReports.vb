@@ -71,6 +71,7 @@ Public Class frmReports
             '.Add(New Reports With {.Reports = "Statement of Account Detailed Report", .Number = "13"})
             '.Add(New Reports With {.Reports = "Statement of Account Summarized Report", .Number = "14"})
             .Add(New Reports With {.Reports = "Z-Reading Summary", .Number = "13"})
+            .Add(New Reports With {.Reports = "Charge Invoice Report", .Number = "14"})
 
         End With
     End Sub

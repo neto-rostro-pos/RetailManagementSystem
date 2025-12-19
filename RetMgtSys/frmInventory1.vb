@@ -375,7 +375,7 @@ endProc:
 
                 CheckBox4.Checked = IIf(Value = "1", True, False)
             Case Else
-                loTxt.Text = Value
+                'loTxt.Text = Value
         End Select
     End Sub
 

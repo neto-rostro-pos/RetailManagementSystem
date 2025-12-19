@@ -527,4 +527,11 @@ errProc:
         End With
     End Sub
 
+    Private Sub PrintToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles PrintToolStripMenuItem.Click
+        Dim loZReading As PRN_TZ_Reading
+
+        loZReading = New PRN_TZ_Reading(p_oAppDriver)
+        loZReading.isBackend = False
+        loZReading.doPrintUtilityZReading()
+    End Sub
 End Class
