@@ -140,7 +140,7 @@ Public Class frmUtilProductUpload
                     Case 2 'Description,sBriefDescription
                         'If lbNewRecord Then
                         p_oRecord.Master(2) = If(range.Cells(i, j).Value2 IsNot Nothing, range.Cells(i, j).Value2.ToString(), "")
-                            p_oRecord.Master(3) = p_oRecord.Master(2)
+                        p_oRecord.Master(3) = p_oRecord.Master(2)
                         'End If
 
                     Case 3 ' Category
@@ -157,21 +157,21 @@ Public Class frmUtilProductUpload
                     Case 5 'Old Price
                         'If lbNewRecord Then
                         If range.Cells(i, j).Value2 IsNot Nothing Then
-                                Decimal.TryParse(range.Cells(i, j).Value2.ToString(), lnOldUnitPrice)
-                                p_oRecord.Master(8) = lnOldUnitPrice
-                            Else
-                                lnOldUnitPrice = 0
-                            End If
+                            Decimal.TryParse(range.Cells(i, j).Value2.ToString(), lnOldUnitPrice)
+                            p_oRecord.Master(8) = lnOldUnitPrice
+                        Else
+                            lnOldUnitPrice = 0
+                        End If
                         'End If
 
                     Case 6 'Old SellPrice
                         'If lbNewRecord Then
                         If range.Cells(i, j).Value2 IsNot Nothing Then
-                                Decimal.TryParse(range.Cells(i, j).Value2.ToString(), lnOldSellPrice)
-                                p_oRecord.Master(9) = lnOldSellPrice
-                            Else
-                                lnOldSellPrice = 0
-                            End If
+                            Decimal.TryParse(range.Cells(i, j).Value2.ToString(), lnOldSellPrice)
+                            p_oRecord.Master(9) = lnOldSellPrice
+                        Else
+                            lnOldSellPrice = 0
+                        End If
                         'End If
                     Case 7  'UnitPrice
                         p_oRecord.Master(86) = If(range.Cells(i, j).Value2 IsNot Nothing, range.Cells(i, j).Value2.ToString(), lnOldUnitPrice)

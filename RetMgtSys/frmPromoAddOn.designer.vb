@@ -155,7 +155,7 @@ Partial Class frmPromoAddOn
         Me.Label17.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label17.Location = New System.Drawing.Point(3, 91)
         Me.Label17.Name = "Label17"
-        Me.Label17.Size = New System.Drawing.Size(124, 16)
+        Me.Label17.Size = New System.Drawing.Size(123, 16)
         Me.Label17.TabIndex = 16
         Me.Label17.Text = "PROMO PERIOD"
         '
@@ -174,7 +174,7 @@ Partial Class frmPromoAddOn
         Me.Label18.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label18.Location = New System.Drawing.Point(3, 142)
         Me.Label18.Name = "Label18"
-        Me.Label18.Size = New System.Drawing.Size(39, 16)
+        Me.Label18.Size = New System.Drawing.Size(38, 16)
         Me.Label18.TabIndex = 19
         Me.Label18.Text = "Thru"
         '
@@ -193,7 +193,7 @@ Partial Class frmPromoAddOn
         Me.Label19.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label19.Location = New System.Drawing.Point(3, 118)
         Me.Label19.Name = "Label19"
-        Me.Label19.Size = New System.Drawing.Size(43, 16)
+        Me.Label19.Size = New System.Drawing.Size(42, 16)
         Me.Label19.TabIndex = 17
         Me.Label19.Text = "From"
         '
@@ -254,7 +254,7 @@ Partial Class frmPromoAddOn
         Me.txtDetail06.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtDetail06.Location = New System.Drawing.Point(81, 179)
         Me.txtDetail06.Name = "txtDetail06"
-        Me.txtDetail06.Size = New System.Drawing.Size(169, 20)
+        Me.txtDetail06.Size = New System.Drawing.Size(275, 20)
         Me.txtDetail06.TabIndex = 35
         '
         'Label1
@@ -271,7 +271,7 @@ Partial Class frmPromoAddOn
         Me.txtDetail05.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtDetail05.Location = New System.Drawing.Point(81, 157)
         Me.txtDetail05.Name = "txtDetail05"
-        Me.txtDetail05.Size = New System.Drawing.Size(136, 20)
+        Me.txtDetail05.Size = New System.Drawing.Size(188, 20)
         Me.txtDetail05.TabIndex = 33
         '
         'Label3
@@ -289,7 +289,7 @@ Partial Class frmPromoAddOn
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.Location = New System.Drawing.Point(8, 130)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(109, 16)
+        Me.Label4.Size = New System.Drawing.Size(108, 16)
         Me.Label4.TabIndex = 31
         Me.Label4.Text = "Replaced Item"
         '
@@ -373,7 +373,7 @@ Partial Class frmPromoAddOn
         Me.txtDetail01.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtDetail01.Location = New System.Drawing.Point(90, 33)
         Me.txtDetail01.Name = "txtDetail01"
-        Me.txtDetail01.Size = New System.Drawing.Size(136, 20)
+        Me.txtDetail01.Size = New System.Drawing.Size(198, 20)
         Me.txtDetail01.TabIndex = 24
         '
         'Label8
@@ -391,7 +391,7 @@ Partial Class frmPromoAddOn
         Me.Label9.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label9.Location = New System.Drawing.Point(8, 10)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(59, 16)
+        Me.Label9.Size = New System.Drawing.Size(58, 16)
         Me.Label9.TabIndex = 22
         Me.Label9.Text = "Add On"
         '

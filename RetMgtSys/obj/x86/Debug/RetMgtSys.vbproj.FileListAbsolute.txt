@@ -446,11 +446,6 @@ D:\000MNVProject\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem
 D:\000MNVProject\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.exe
 D:\000MNVProject\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.xml
 D:\000MNVProject\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.pdb
-C:\GGC_Systems\vb.net\RetMgtSys\WinSCP.exe
-C:\GGC_Systems\vb.net\RetMgtSys\RetailManagementSystem.exe.config
-C:\GGC_Systems\vb.net\RetMgtSys\RetailManagementSystem.exe
-C:\GGC_Systems\vb.net\RetMgtSys\RetailManagementSystem.pdb
-C:\GGC_Systems\vb.net\RetMgtSys\RetailManagementSystem.xml
 C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetMgtSys.vbproj.AssemblyReference.cache
 C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetMgtSys.vbproj.ResolveComReference.cache
 C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmUtilProductUpload.resources
@@ -482,7 +477,47 @@ C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\Retai
 C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.Resources.resources
 C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetMgtSys.vbproj.GenerateResource.cache
 C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetMgtSys.vbproj.CoreCompileInputs.cache
-C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetMgtSys.vbproj.CopyComplete
+C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetMgtSys.vbproj.Up2Date
 C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.exe
 C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.xml
 C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.pdb
+C:\GGC_Systems\vb.net\RetMgtSys\WinSCP.exe
+C:\GGC_Systems\vb.net\RetMgtSys\RetailManagementSystem.exe.config
+C:\GGC_Systems\vb.net\RetMgtSys\RetailManagementSystem.exe
+C:\GGC_Systems\vb.net\RetMgtSys\RetailManagementSystem.pdb
+C:\GGC_Systems\vb.net\RetMgtSys\RetailManagementSystem.xml
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetMgtSys.vbproj.AssemblyReference.cache
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetMgtSys.vbproj.ResolveComReference.cache
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmUtilProductUpload.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmDeliveryService.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmInventory1.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmDiscount.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmEjournal.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmReports.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmSOATagging.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmSOAEntry.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmTerminal.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmZReading.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmPromoDiscount.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmPromoAddOn.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmSalesPromo.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmSysUser.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmTerm.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmAffiliates.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmBanks.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmBin.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmDiscountCard.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmInventory_Type.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmMachine.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmMeasure.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmProduct_Category.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmSection.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.frmSize.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.mdiMain.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.Resources.resources
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetMgtSys.vbproj.GenerateResource.cache
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetMgtSys.vbproj.CoreCompileInputs.cache
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetMgtSys.vbproj.CopyComplete
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.exe
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.xml
+D:\Guanzon\GMC SEG Folder\vb.net\Los Pedritos Cafeteria IntegSys - VB.net\RetailManagementSystem\RetMgtSys\obj\x86\Debug\RetailManagementSystem.pdb
